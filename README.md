@@ -51,6 +51,10 @@ python generate.py       # Generate text from the trained model
 
 The code in Section 14 is copy-pasteable and runs on a laptop CPU (10-30 min) or GPU (2-5 min).
 
+## Recommended reading
+
+Sebastian Raschka's [*Build a Large Language Model (From Scratch)*](https://www.manning.com/books/build-a-large-language-model-from-scratch) is an excellent companion to this guide. It walks through building a GPT-style model step by step with clear code and explanations — highly recommended if you want a book-length treatment alongside this condensed reference.
+
 ## Suggestions welcome
 
 This is a learning project. If you find errors, unclear explanations, or missing context, please open an issue or PR — I'd appreciate it.
