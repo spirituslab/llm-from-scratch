@@ -55,6 +55,10 @@ The code in Section 14 is copy-pasteable and runs on a laptop CPU (10-30 min) or
 
 Sebastian Raschka's [*Build a Large Language Model (From Scratch)*](https://www.manning.com/books/build-a-large-language-model-from-scratch) is an excellent companion to this guide. It walks through building a GPT-style model step by step with clear code and explanations — highly recommended if you want a book-length treatment alongside this condensed reference.
 
+## Disclaimer
+
+This is a personal self-learning guide, not a definitive reference. It was built with the help of AI and may contain errors or inaccuracies. If something looks off, it probably is — please don't treat it as ground truth. Cross-check with primary sources (papers, official documentation) when in doubt.
+
 ## Suggestions welcome
 
-This is a learning project. If you find errors, unclear explanations, or missing context, please open an issue or PR — I'd appreciate it.
+If you find errors, unclear explanations, or missing context, please open an issue or PR — I'd appreciate it.
